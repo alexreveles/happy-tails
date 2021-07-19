@@ -1,5 +1,7 @@
 # Happy Tails
 
+# Frontend Developer
+
 ![Title Image](./public/images/title-image.png)
 
 ## Table of Contents
